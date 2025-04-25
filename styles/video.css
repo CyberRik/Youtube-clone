@@ -85,3 +85,16 @@
   bottom: 8px;
   right: 5px;
 }
+
+.video-time-live {
+  font-family: Roboto, Arial;
+  font-size: 12px;
+  font-weight: 500;
+  padding: 4px;
+  border-radius: 2px;
+  background-color: rgb(209, 32, 32);
+  color: white;
+  position: absolute;
+  bottom: 8px;
+  right: 5px;
+}
